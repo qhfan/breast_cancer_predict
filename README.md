@@ -1,3 +1,5 @@
+#breast_cancer_predict
+
 利用pytorch对sklearn中的breast_cancer数据集进行分类
 
 训练结果：
