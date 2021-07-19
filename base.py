@@ -90,5 +90,5 @@ def plot(title:str, x_name:str, y_name:str, x, y):
     plt.xlabel(x_name)
     plt.ylabel(y_name)
     plt.legend()
-    plt.show()
     plt.savefig('{}.svg'.format(title))
+    plt.show()
